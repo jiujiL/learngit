@@ -3,4 +3,12 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple..
+<<<<<<< HEAD
 修复 bug 101
+=======
+<<<<<<< Updated upstream
+修复 bug 101
+=======
+工作到一半。。用git stash
+>>>>>>> Stashed changes
+>>>>>>> dev
